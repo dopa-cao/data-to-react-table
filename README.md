@@ -5,9 +5,11 @@
 
   ①扫描包
   
-  ②解析xml配置
+  ②dom4j解析xml配置
   
   ③获取配置文件配置
 
-3、集成swagger2
+3、swagger2的使用
+
+4、lombok的使用
   
