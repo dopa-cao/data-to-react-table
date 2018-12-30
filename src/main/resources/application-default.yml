@@ -1,0 +1,6 @@
+server:
+  port: 8081
+#配置类
+data:
+  type: people,dog,phone
+  path: cn.com.clm.bean.People,cn.com.clm.bean.Dog,cn.com.clm.bean.Phone

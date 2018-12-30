@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data value="test">
+    <table desc="table people">
+        <type>people</type>
+        <path>cn.com.clm.bean.People</path>
+    </table>
+
+    <table desc="table dog">
+        <type>dog</type>
+        <path>cn.com.clm.bean.Dog</path>
+    </table>
+
+    <table desc="table phone">
+        <type>phone</type>
+        <path>cn.com.clm.bean.Phone</path>
+    </table>
+
+</data>
