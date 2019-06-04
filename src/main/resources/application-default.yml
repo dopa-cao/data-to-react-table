@@ -1,6 +1,5 @@
 server:
   port: 8081
-  
 #配置类
 data:
   type: people,dog,phone
